@@ -1,6 +1,6 @@
 **Hi 👋, I'm Leonardo Bento**
 
-I am a fullstack developer from Brazil
+I am a full stack developer student from Brazil
 
 * 🔭 Working in projects using HTML, CSS, Javascript and Python
 * 🌱 Learning PHP and C#
