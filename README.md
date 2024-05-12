@@ -2,8 +2,8 @@
 
 I am a full stack developer student from Brazil
 
-* 🔭 Working in projects using HTML, CSS, Javascript and Python
-* 🌱 Learning PHP and C#
+* 🔭 Working in projects using HTML, CSS, Javascript and PHP
+* 🌱 Learning Python
 * 📖 Reading "Padrões de Projetos" - Erich Gamma
 * 📫 How to reach me: LHSB123henrique@gmail.com
 
